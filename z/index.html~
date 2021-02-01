@@ -1,0 +1,12 @@
+<html>
+<head>
+Acceso al disco de los alumnos
+</head>
+<body>
+<p>
+Debe tener usuario y contraseña asignado para poder hacer este procedimiento
+<p>
+<a href="http://200.55.21.122/cgi-bin/samba/smb2www.pl"> Acceso </a>
+</body>
+</html>
+
